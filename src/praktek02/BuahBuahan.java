@@ -11,4 +11,21 @@ package praktek02;
  */
 public class BuahBuahan {
     
+    String bentuknya;
+    String rasanya;
+    String warnanya;
+    String ukurannya;
+    String kandungannya;
+    
+    String caramenanamnya;
+    void cetakInfo () {
+        System.out.println("Bentuknya:"+bentuknya);
+        System.out.println("Rasanya:"+rasanya);
+        System.out.println("Warnanya:"+warnanya);
+        System.out.println("ukurannya:"+ukurannya);
+        System.out.println("Kandungannya:"+kandungannya);
+        System.out.println("Cara Menanamnya:"+caramenanamnya);
+
+    }
+    
 }
