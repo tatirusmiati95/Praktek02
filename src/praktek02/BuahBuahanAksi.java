@@ -10,5 +10,15 @@ package praktek02;
  * @author ASUS
  */
 public class BuahBuahanAksi {
+    public static void main(String[] args) {
+        
+        
+BuahBuahan Rambutan = new BuahBuahan();
+
+BuahBuahan Anggur = new BuahBuahan();
+
+BuahBuahan Kelapa = new BuahBuahan();
+        
+    }
     
 }
